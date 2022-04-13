@@ -1,21 +1,20 @@
 ---
-title: 'About me'
+title: 'Acerca de mi'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quien soy
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 😎🐱‍🚀
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Eduardo Reyes Espinoza.
+> Soy de Tijuana, BC y tengo 21 años.
+> Actualmenmte estoy en 6to semestre de la carrera de Ing en Sistemas Computacionales, 
+> en el Instituto Tecnologico de Tijuana.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Que me gusta**, me gusta escuchar musica todo el tiempo y tambien me gusta aprender 
+cosas que me apasionen, actualmente soy programador web en Waterberrydev donde tengo 
+menos de un año laborando y espero que mi carrera como programador crezca pero sobretodo 
+yo quiero ser mejor persona cada dia.
